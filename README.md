@@ -8,7 +8,7 @@
 ![Lenn's Github Stats](https://github-readme-stats.vercel.app/api?username=ReiLennux&count_private=true&show_icons=true&include_all_commits=true&bg_color=0d111700&hide_border=true&title_color=FF55FFFF&icon_color=FF55FFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReiLennux&hide=TeX&layout=compact&bg_color=0d111700&hide_border=true&title_color=FF55FFFF&icon_color=FF55FFFF)
 
-
+</center>
 
 ## 🛠  Technologies and tools
 
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/tailwind CSS-282C34?logo=tailwindcss" alt="tailwind CSS logo" title="tailwind CSS" height="25" />
 <img src="https://img.shields.io/badge/Material Design-282C34?logo=materialdesign" alt="Material Design logo" title="Material Design" height="25" />
 
-</center>
+
 
 <div style="margin-top:2em; display:flex; justify-content: end;">
 You can reach me at Lenn343RM@gmail.com
