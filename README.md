@@ -38,9 +38,9 @@
 <img src="https://img.shields.io/badge/Material Design-282C34?logo=materialdesign" alt="Material Design logo" title="Material Design" height="25" />
 </div>
 
-<div style="margin-top:2em; display:flex; justify-content: end;">
+<div align="right">
 You can reach me at Lenn343RM@gmail.com
+
+<span style="color: #AA00AA2f">||ᒷᓭ ╎'ᒲ ᔑ ᒲ╎リᒷᓵ∷ᔑ⎓ℸ ̣  !¡ꖎᔑ||ᒷ∷ ʖℸ ̣ ∴</span>
 </div>
 
-
-<p style="color: #AA00AA2f">||ᒷᓭ ╎'ᒲ ᔑ ᒲ╎リᒷᓵ∷ᔑ⎓ℸ ̣  !¡ꖎᔑ||ᒷ∷ ʖℸ ̣ ∴</p>
