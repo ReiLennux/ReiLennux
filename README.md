@@ -14,6 +14,7 @@
 
 <a name="Technologies"></a>
 
+<div align="left">
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=NodedotJS" alt="Node.js logo" title="Node.js" height="25" />
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript" alt="TypeScript logo" title="TypeScript" height="25" />
@@ -21,18 +22,21 @@
 <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular" alt="Angular logo" title="Angular" height="25" />
 <img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin" alt="Kotlin logo" title="Kotlin" height="25" />
 <img src="https://img.shields.io/badge/Astro-282C34?logo=Astro" alt="Astro logo" title="Astro" height="25" />
+</div>
+
+
 
 ## 📖  What I am currently learning / improving on
 
 <a name="learning-now"></a>
 
+<div align="left">
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase" alt="Firebase logo" title="Firebase" height="25" />
 <img src="https://img.shields.io/badge/Next-282C34?logo=nextdotjs" alt="Next logo" title="Next" height="25" />
 <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs" alt="NestJS logo" title="NestJS" height="25" />
 <img src="https://img.shields.io/badge/tailwind CSS-282C34?logo=tailwindcss" alt="tailwind CSS logo" title="tailwind CSS" height="25" />
 <img src="https://img.shields.io/badge/Material Design-282C34?logo=materialdesign" alt="Material Design logo" title="Material Design" height="25" />
-
-
+</div>
 
 <div style="margin-top:2em; display:flex; justify-content: end;">
 You can reach me at Lenn343RM@gmail.com
